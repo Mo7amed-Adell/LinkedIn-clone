@@ -7,7 +7,7 @@ Users can sign up, log in, and create posts that appear dynamically in the feed 
 
 ## 🌐 Live Demo
 
-👉 **[View Live App](linked-in-clone-eight-liart.vercel.app)**  
+👉 **[View Live App](https://linked-in-clone-eight-liart.vercel.app)**  
 *(Hosted on Vercel)*
 
 ---
